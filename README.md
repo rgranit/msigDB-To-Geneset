@@ -1,5 +1,5 @@
 # msigDB-To-Geneset
-Script that converts msigDB '.gmt' files into a tab-delimited gene-set ready for use in 'Genomica' 
+Script that converts msigDB '.gmt' files into a tab-delimited gene-set ready for use in ['Genomica'](http://genomica.weizmann.ac.il/)
 
 Usage
 --------
