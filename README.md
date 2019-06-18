@@ -1,5 +1,5 @@
-# msigDB-To-Geneset
-Script that converts msigDB '.gmt' files into a tab-delimited gene-set ready for use in ['Genomica'](http://genomica.weizmann.ac.il/)
+# MSigDB-To-Geneset
+Script that converts MSigDB '.gmt' files into a tab-delimited gene-set ready for use in ['Genomica'](http://genomica.weizmann.ac.il/)
 
 Usage
 --------
@@ -9,7 +9,7 @@ msigdbToGeneSet.pl <msigdbfile.txt> <output.txt>
 Input
 --------
 
-Tab delimited .txt or .gmt file downloaded from msigDB (tested on input files with entrezID, but could work with other types of IDs).
+Tab delimited .txt or .gmt file downloaded from MSigDB (tested on input files with entrezID, but could work with other types of IDs).
 
 Example input:
 
